@@ -1,0 +1,22 @@
+---
+galaxy_info:
+  author: Markus Mroch
+  description: Modules to manage a dell switch
+  license: CC-BY-SA
+  min_ansible_version: 2.0
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  - name: Ubuntu
+    versions:
+      - yakkety
+  - name: Debian
+    versions:
+      - jessie
+  galaxy_tags:
+  - system
+  - dell
+  - network
+  - network:switch
+dependencies: []
